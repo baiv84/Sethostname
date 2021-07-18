@@ -35,7 +35,7 @@ CITY_MAP = {
     'сухобузимо':'сухоб',
 }
 
-#--Main windows class---
+
 class ARMSetup(QWidget):
 
     def __init__(self):
