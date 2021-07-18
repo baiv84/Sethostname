@@ -5,7 +5,7 @@ from subprocess import Popen, PIPE
 from PyQt5.QtWidgets import (QWidget, QLabel, QLineEdit,
     QTextEdit, QPushButton, QGridLayout,QVBoxLayout, QDesktopWidget, QMessageBox, QApplication)
 
-
+#---
 CITY_MAP = {
     'красноярск': 'гу',
     'назарово': 'наз',
